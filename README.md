@@ -1,0 +1,3 @@
+# Scraping-mining-super
+
+Although lotteries are random via mechanical machines to avoid applying any algorithm in draws, some think they can crack the pattern and predict the next winning numbers. Among different lottery drawings, one or two offer their past winning numbers in form of CSVs. California Super Lotto Plus is not among them. In this project, we scrape a website that updates the winning numbers after each draw and import winning numbers in the past year drawings in a DataFrame using Python and Pandas. The related pictures in each section are in the pics folder with appropriate namesas well as in cells. Explanations are provided in each cell in the form of comments.
